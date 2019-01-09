@@ -1,0 +1,22 @@
+body{
+    background: black url("images/background.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.navbar-brand{
+    font-family: 'Monoton', cursive;
+    font-weight: 700;
+    font-size: 30px;
+    margin-right: 50px;
+}
+.ash{
+    color: rgb(104, 86, 86)!important;
+}
+.yellow{
+    color: rgb(223, 226, 32)!important;
+}
+input{
+    width: 100%;
+    border: none;
+}
